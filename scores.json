@@ -1,0 +1,4062 @@
+[
+  {
+    "id": "1000",
+    "attendance": {
+      "first_term": 86,
+      "second_term": 52,
+      "third_term": 59
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 66,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 58,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 61,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 64,
+        "total": 75,
+        "grade": "A"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 61,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 66,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 65,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 60,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 63,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 53,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 61,
+        "total": 75,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 56,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 61,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 59,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 61,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 13,
+        "exam": 57,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 53,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 60,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 57,
+        "total": 69,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1001",
+    "attendance": {
+      "first_term": 73,
+      "second_term": 50,
+      "third_term": 57
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 56,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 64,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 52,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 69,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 58,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 68,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 55,
+        "total": 70,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 68,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 61,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 60,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 57,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 67,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 52,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 51,
+        "total": 62,
+        "grade": "C"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 67,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 58,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 56,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 56,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1002",
+    "attendance": {
+      "first_term": 54,
+      "second_term": 76,
+      "third_term": 67
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 53,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 59,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 58,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 69,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 68,
+        "total": 78,
+        "grade": "A"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 15,
+        "exam": 52,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 54,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 62,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 67,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 11,
+        "exam": 51,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 70,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 50,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 55,
+        "total": 68,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 69,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 63,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 55,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 57,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 11,
+        "exam": 51,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 56,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 67,
+        "total": 80,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1003",
+    "attendance": {
+      "first_term": 65,
+      "second_term": 40,
+      "third_term": 69
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 50,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 55,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 68,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 57,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 59,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 50,
+        "total": 62,
+        "grade": "C"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 62,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 64,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 59,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 55,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 61,
+        "total": 76,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 62,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 61,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 66,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 66,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 64,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 62,
+        "total": 74,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1004",
+    "attendance": {
+      "first_term": 47,
+      "second_term": 63,
+      "third_term": 48
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 54,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 60,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 57,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 50,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 57,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 62,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 50,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 61,
+        "total": 74,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 70,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 57,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 52,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 53,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 53,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 60,
+        "total": 75,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 69,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 61,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 63,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 11,
+        "exam": 60,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 58,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 70,
+        "total": 84,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1005",
+    "attendance": {
+      "first_term": 86,
+      "second_term": 52,
+      "third_term": 50
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 65,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 57,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 58,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 61,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 52,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 60,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 68,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 62,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 63,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 59,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 57,
+        "total": 70,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 56,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 61,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 12,
+        "exam": 58,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 58,
+        "total": 72,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1006",
+    "attendance": {
+      "first_term": 58,
+      "second_term": 75,
+      "third_term": 58
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 64,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 66,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 70,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 60,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 61,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 50,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 57,
+        "total": 71,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 57,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 50,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 60,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 52,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 50,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 67,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 55,
+        "total": 67,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 66,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 61,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 56,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 60,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 13,
+        "exam": 68,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 11,
+        "exam": 63,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 66,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 69,
+        "total": 84,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1007",
+    "attendance": {
+      "first_term": 68,
+      "second_term": 85,
+      "third_term": 84
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 68,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 60,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 64,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 62,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 12,
+        "exam": 62,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 70,
+        "total": 85,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 64,
+        "total": 79,
+        "grade": "A"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 67,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 62,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 50,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 68,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 69,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 50,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 67,
+        "total": 79,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 61,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 58,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 50,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 66,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 59,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 57,
+        "total": 72,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1008",
+    "attendance": {
+      "first_term": 56,
+      "second_term": 64,
+      "third_term": 81
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 15,
+        "exam": 50,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 63,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 64,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 70,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 13,
+        "exam": 70,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 64,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 53,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 53,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 52,
+        "total": 63,
+        "grade": "C"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 58,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 61,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 59,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 58,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 56,
+        "total": 70,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 52,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 56,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 62,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 69,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 68,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 64,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 64,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 53,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1009",
+    "attendance": {
+      "first_term": 53,
+      "second_term": 46,
+      "third_term": 64
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 59,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 12,
+        "exam": 59,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 67,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 59,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 57,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 53,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 59,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 69,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 60,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 11,
+        "exam": 61,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 52,
+        "total": 62,
+        "grade": "C"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 59,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 61,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 60,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 65,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 59,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 64,
+        "total": 75,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1010",
+    "attendance": {
+      "first_term": 57,
+      "second_term": 65,
+      "third_term": 48
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 60,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 69,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 54,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 57,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 62,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 55,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 52,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 63,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 58,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 61,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 56,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 69,
+        "total": 83,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 51,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 56,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 68,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 55,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 62,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 63,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 60,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 68,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 50,
+        "total": 61,
+        "grade": "C"
+      }
+    ]
+  },
+  {
+    "id": "1011",
+    "attendance": {
+      "first_term": 65,
+      "second_term": 43,
+      "third_term": 66
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 53,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 52,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 55,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 52,
+        "total": 63,
+        "grade": "C"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 64,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 53,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 57,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 51,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 53,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 69,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 54,
+        "total": 64,
+        "grade": "C"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 66,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 54,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 70,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 50,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 12,
+        "exam": 57,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 69,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 69,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 66,
+        "total": 80,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1012",
+    "attendance": {
+      "first_term": 61,
+      "second_term": 45,
+      "third_term": 43
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 56,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 52,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 62,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 64,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 58,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 61,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 55,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 51,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 66,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 56,
+        "total": 68,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 62,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 64,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 55,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 64,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 66,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 54,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 58,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 60,
+        "total": 74,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1013",
+    "attendance": {
+      "first_term": 55,
+      "second_term": 55,
+      "third_term": 45
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 60,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 53,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 51,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 57,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 65,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 62,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 57,
+        "total": 72,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 51,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 63,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 50,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 57,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 54,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 66,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 68,
+        "total": 80,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 64,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 69,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 12,
+        "exam": 55,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 61,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 52,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 62,
+        "total": 73,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1014",
+    "attendance": {
+      "first_term": 83,
+      "second_term": 63,
+      "third_term": 68
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 61,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 61,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 56,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 65,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 58,
+        "total": 70,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 56,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 65,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 57,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 57,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 67,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 63,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 54,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 63,
+        "total": 75,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 69,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 60,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 11,
+        "exam": 55,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 55,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 67,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 15,
+        "exam": 60,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 56,
+        "total": 70,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1015",
+    "attendance": {
+      "first_term": 40,
+      "second_term": 88,
+      "third_term": 59
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 53,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 66,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 62,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 59,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 64,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 56,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 59,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 50,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 66,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 70,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 51,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 15,
+        "exam": 58,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 59,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 57,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 53,
+        "total": 67,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 62,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 67,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 12,
+        "exam": 61,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 50,
+        "total": 60,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 70,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 15,
+        "exam": 66,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 53,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1016",
+    "attendance": {
+      "first_term": 60,
+      "second_term": 64,
+      "third_term": 61
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 70,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 13,
+        "exam": 63,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 15,
+        "exam": 56,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 10,
+        "exam": 61,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 55,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 53,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 61,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 56,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 53,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 51,
+        "total": 62,
+        "grade": "C"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 59,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 68,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 52,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 64,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 62,
+        "total": 75,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 66,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 68,
+        "total": 81,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 15,
+        "exam": 55,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 66,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 57,
+        "total": 70,
+        "grade": "B"
+      }
+    ]
+  },
+  {
+    "id": "1017",
+    "attendance": {
+      "first_term": 82,
+      "second_term": 60,
+      "third_term": 40
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 56,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 69,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 14,
+        "exam": 53,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 51,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 11,
+        "exam": 53,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 68,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 52,
+        "total": 67,
+        "grade": "B"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 64,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 12,
+        "exam": 56,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 14,
+        "exam": 58,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 65,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 63,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 14,
+        "exam": 66,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 54,
+        "total": 66,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 69,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 67,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 66,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 57,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 10,
+        "exam": 51,
+        "total": 61,
+        "grade": "C"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 61,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 63,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 14,
+        "exam": 60,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 68,
+        "total": 80,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1018",
+    "attendance": {
+      "first_term": 47,
+      "second_term": 69,
+      "third_term": 49
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 14,
+        "exam": 57,
+        "total": 71,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 59,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 64,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 55,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 12,
+        "exam": 62,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 15,
+        "exam": 54,
+        "total": 69,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 65,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 55,
+        "total": 68,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 51,
+        "total": 61,
+        "grade": "C"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 52,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 69,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 12,
+        "exam": 70,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 11,
+        "exam": 56,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 50,
+        "total": 60,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 10,
+        "exam": 63,
+        "total": 73,
+        "grade": "B"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 12,
+        "exam": 66,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 54,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 68,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 12,
+        "exam": 53,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 50,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 14,
+        "exam": 69,
+        "total": 83,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 10,
+        "exam": 70,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "PHE",
+        "ca": 14,
+        "exam": 64,
+        "total": 78,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": "1019",
+    "attendance": {
+      "first_term": 61,
+      "second_term": 65,
+      "third_term": 86
+    },
+    "first_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 13,
+        "exam": 64,
+        "total": 77,
+        "grade": "A"
+      },
+      {
+        "subject": "English",
+        "ca": 10,
+        "exam": 57,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 13,
+        "exam": 66,
+        "total": 79,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 12,
+        "exam": 52,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 53,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 15,
+        "exam": 63,
+        "total": 78,
+        "grade": "A"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 13,
+        "exam": 62,
+        "total": 75,
+        "grade": "A"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 13,
+        "exam": 54,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 15,
+        "exam": 70,
+        "total": 85,
+        "grade": "A"
+      }
+    ],
+    "second_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 10,
+        "exam": 54,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "English",
+        "ca": 14,
+        "exam": 53,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 11,
+        "exam": 65,
+        "total": 76,
+        "grade": "A"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 15,
+        "exam": 69,
+        "total": 84,
+        "grade": "A"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 68,
+        "total": 82,
+        "grade": "A"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 10,
+        "exam": 54,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 12,
+        "exam": 51,
+        "total": 63,
+        "grade": "C"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 11,
+        "exam": 56,
+        "total": 67,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 11,
+        "exam": 67,
+        "total": 78,
+        "grade": "A"
+      }
+    ],
+    "third_term": [
+      {
+        "subject": "Mathematics",
+        "ca": 11,
+        "exam": 62,
+        "total": 73,
+        "grade": "B"
+      },
+      {
+        "subject": "English",
+        "ca": 15,
+        "exam": 65,
+        "total": 80,
+        "grade": "A"
+      },
+      {
+        "subject": "Basic Science",
+        "ca": 10,
+        "exam": 50,
+        "total": 60,
+        "grade": "C"
+      },
+      {
+        "subject": "Social Studies",
+        "ca": 13,
+        "exam": 51,
+        "total": 64,
+        "grade": "C"
+      },
+      {
+        "subject": "Civic Education",
+        "ca": 14,
+        "exam": 56,
+        "total": 70,
+        "grade": "B"
+      },
+      {
+        "subject": "Agric Science",
+        "ca": 13,
+        "exam": 52,
+        "total": 65,
+        "grade": "B"
+      },
+      {
+        "subject": "Home Economics",
+        "ca": 10,
+        "exam": 62,
+        "total": 72,
+        "grade": "B"
+      },
+      {
+        "subject": "Computer Studies",
+        "ca": 12,
+        "exam": 62,
+        "total": 74,
+        "grade": "B"
+      },
+      {
+        "subject": "PHE",
+        "ca": 12,
+        "exam": 60,
+        "total": 72,
+        "grade": "B"
+      }
+    ]
+  }
+]
