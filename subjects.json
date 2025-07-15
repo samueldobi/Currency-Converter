@@ -1,0 +1,44 @@
+const subjects = {
+  junior: [
+    { index: 1, arm: "junior", subjectName: "Mathematics" },
+    { index: 2, arm: "junior", subjectName: "English Language" },
+    { index: 3, arm: "junior", subjectName: "Basic Science" },
+    { index: 4, arm: "junior", subjectName: "Basic Technology" },
+    { index: 5, arm: "junior", subjectName: "Social Studies" },
+    { index: 6, arm: "junior", subjectName: "Civic Education" },
+    { index: 7, arm: "junior", subjectName: "Agricultural Science" },
+    { index: 8, arm: "junior", subjectName: "Home Economics" },
+    { index: 9, arm: "junior", subjectName: "Computer Studies" },
+    { index: 10, arm: "junior", subjectName: "Physical and Health Education (PHE)" },
+    { index: 11, arm: "junior", subjectName: "Religious Studies (CRS/IRS)" },
+    { index: 12, arm: "junior", subjectName: "Cultural and Creative Arts" },
+    { index: 13, arm: "junior", subjectName: "Business Studies" },
+    { index: 14, arm: "junior", subjectName: "French" },
+    { index: 15, arm: "junior", subjectName: "Arabic" }
+  ],
+
+  senior: [
+    { index: 1, arm: "senior", subjectName: "Mathematics" },
+    { index: 2, arm: "senior", subjectName: "English Language" },
+    { index: 3, arm: "senior", subjectName: "Biology" },
+    { index: 4, arm: "senior", subjectName: "Physics" },
+    { index: 5, arm: "senior", subjectName: "Chemistry" },
+    { index: 6, arm: "senior", subjectName: "Agricultural Science" },
+    { index: 7, arm: "senior", subjectName: "Economics" },
+    { index: 8, arm: "senior", subjectName: "Government" },
+    { index: 9, arm: "senior", subjectName: "Geography" },
+    { index: 10, arm: "senior", subjectName: "Civic Education" },
+    { index: 11, arm: "senior", subjectName: "Literature in English" },
+    { index: 12, arm: "senior", subjectName: "Commerce" },
+    { index: 13, arm: "senior", subjectName: "Financial Accounting" },
+    { index: 14, arm: "senior", subjectName: "Christian Religious Studies (CRS)" },
+    { index: 15, arm: "senior", subjectName: "Islamic Religious Studies (IRS)" },
+    { index: 16, arm: "senior", subjectName: "Technical Drawing" },
+    { index: 17, arm: "senior", subjectName: "Computer Studies" },
+    { index: 18, arm: "senior", subjectName: "Further Mathematics" },
+    { index: 19, arm: "senior", subjectName: "Food and Nutrition" },
+    { index: 20, arm: "senior", subjectName: "Home Management" },
+    { index: 21, arm: "senior", subjectName: "French" },
+    { index: 22, arm: "senior", subjectName: "Arabic" }
+  ]
+};
